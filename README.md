@@ -1,4 +1,4 @@
-**# AMAZON_CLONE**
+# AMAZON_CLONE
 
 A fully responsive Amazon Clone created using only HTML and CSS. This project replicates the visual design and layout of the Amazon website, showcasing an e-commerce platform's homepage and essential features.
 

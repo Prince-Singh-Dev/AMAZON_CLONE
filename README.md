@@ -1,6 +1,6 @@
 # AMAZON_CLONE
 
-*Amazon Clone Project: A Responsive E-commerce Platform*
+*Amazon Clone Project: A Responsive E-commerce Platform*.
 
 This project is a faithful replication of the Amazon website's visual design and layout, showcasing a fully functional e-commerce platform's homepage and essential features. The clone is built entirely using HTML and CSS, demonstrating expertise in modern front-end development techniques.
 

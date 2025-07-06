@@ -4,6 +4,7 @@
 
 This project is a faithful replication of the Amazon website's visual design and layout, showcasing a fully functional e-commerce platform's homepage and essential features. The clone is built entirely using HTML and CSS, demonstrating expertise in modern front-end development techniques.
 
+
 *Key Features:*
 1. *Responsive Design*: Optimized for seamless user experience across desktops, tablets, and mobile devices, leveraging cutting-edge CSS techniques to ensure a consistent layout and visual appeal.
 2. *Custom Layout*: Meticulously replicates the iconic Amazon interface, including the header, footer, product listings, and search bar, to create an immersive and familiar user experience.
